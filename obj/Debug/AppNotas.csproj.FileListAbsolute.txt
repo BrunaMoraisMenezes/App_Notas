@@ -8,3 +8,16 @@ C:\Users\Bruna\Desktop\AppNotas\obj\Debug\AppNotas.csproj.GenerateResource.cache
 C:\Users\Bruna\Desktop\AppNotas\obj\Debug\AppNotas.csproj.CoreCompileInputs.cache
 C:\Users\Bruna\Desktop\AppNotas\obj\Debug\AppNotas.exe
 C:\Users\Bruna\Desktop\AppNotas\obj\Debug\AppNotas.pdb
+C:\Users\Bruna\Documents\Projetos\App_Notas\bin\Debug\AppNotas.exe.config
+C:\Users\Bruna\Documents\Projetos\App_Notas\bin\Debug\AppNotas.exe
+C:\Users\Bruna\Documents\Projetos\App_Notas\bin\Debug\AppNotas.pdb
+C:\Users\Bruna\Documents\Projetos\App_Notas\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Bruna\Documents\Projetos\App_Notas\bin\Debug\Guna.UI.dll
+C:\Users\Bruna\Documents\Projetos\App_Notas\obj\Debug\AppNotas.csproj.AssemblyReference.cache
+C:\Users\Bruna\Documents\Projetos\App_Notas\obj\Debug\AppNotas.frm_AppNotas.resources
+C:\Users\Bruna\Documents\Projetos\App_Notas\obj\Debug\AppNotas.Properties.Resources.resources
+C:\Users\Bruna\Documents\Projetos\App_Notas\obj\Debug\AppNotas.csproj.GenerateResource.cache
+C:\Users\Bruna\Documents\Projetos\App_Notas\obj\Debug\AppNotas.csproj.CoreCompileInputs.cache
+C:\Users\Bruna\Documents\Projetos\App_Notas\obj\Debug\AppNotas.csproj.CopyComplete
+C:\Users\Bruna\Documents\Projetos\App_Notas\obj\Debug\AppNotas.exe
+C:\Users\Bruna\Documents\Projetos\App_Notas\obj\Debug\AppNotas.pdb
